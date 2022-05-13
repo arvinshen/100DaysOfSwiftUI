@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8516B240282D5F99001A9565 /* RockPaperScissorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8516B23F282D5F99001A9565 /* RockPaperScissorsApp.swift */; };
-		8516B242282D5F99001A9565 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8516B241282D5F99001A9565 /* ContentView.swift */; };
-		8516B244282D5F9D001A9565 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8516B243282D5F9D001A9565 /* Assets.xcassets */; };
-		8516B247282D5F9D001A9565 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8516B246282D5F9D001A9565 /* Preview Assets.xcassets */; };
+		8516B25A282E0581001A9565 /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8516B259282E0581001A9565 /* BetterRestApp.swift */; };
+		8516B25C282E0581001A9565 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8516B25B282E0581001A9565 /* ContentView.swift */; };
+		8516B25E282E0584001A9565 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8516B25D282E0584001A9565 /* Assets.xcassets */; };
+		8516B261282E0584001A9565 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8516B260282E0584001A9565 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8516B23C282D5F99001A9565 /* RockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8516B23F282D5F99001A9565 /* RockPaperScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissorsApp.swift; sourceTree = "<group>"; };
-		8516B241282D5F99001A9565 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		8516B243282D5F9D001A9565 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8516B246282D5F9D001A9565 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8516B256282E0581001A9565 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8516B259282E0581001A9565 /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
+		8516B25B282E0581001A9565 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8516B25D282E0584001A9565 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8516B260282E0584001A9565 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8516B239282D5F99001A9565 /* Frameworks */ = {
+		8516B253282E0581001A9565 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8516B233282D5F99001A9565 = {
+		8516B24D282E0581001A9565 = {
 			isa = PBXGroup;
 			children = (
-				8516B23E282D5F99001A9565 /* RockPaperScissors */,
-				8516B23D282D5F99001A9565 /* Products */,
+				8516B258282E0581001A9565 /* BetterRest */,
+				8516B257282E0581001A9565 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8516B23D282D5F99001A9565 /* Products */ = {
+		8516B257282E0581001A9565 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8516B23C282D5F99001A9565 /* RockPaperScissors.app */,
+				8516B256282E0581001A9565 /* BetterRest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8516B23E282D5F99001A9565 /* RockPaperScissors */ = {
+		8516B258282E0581001A9565 /* BetterRest */ = {
 			isa = PBXGroup;
 			children = (
-				8516B23F282D5F99001A9565 /* RockPaperScissorsApp.swift */,
-				8516B241282D5F99001A9565 /* ContentView.swift */,
-				8516B243282D5F9D001A9565 /* Assets.xcassets */,
-				8516B245282D5F9D001A9565 /* Preview Content */,
+				8516B259282E0581001A9565 /* BetterRestApp.swift */,
+				8516B25B282E0581001A9565 /* ContentView.swift */,
+				8516B25D282E0584001A9565 /* Assets.xcassets */,
+				8516B25F282E0584001A9565 /* Preview Content */,
 			);
-			path = RockPaperScissors;
+			path = BetterRest;
 			sourceTree = "<group>";
 		};
-		8516B245282D5F9D001A9565 /* Preview Content */ = {
+		8516B25F282E0584001A9565 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				8516B246282D5F9D001A9565 /* Preview Assets.xcassets */,
+				8516B260282E0584001A9565 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8516B23B282D5F99001A9565 /* RockPaperScissors */ = {
+		8516B255282E0581001A9565 /* BetterRest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8516B24A282D5F9D001A9565 /* Build configuration list for PBXNativeTarget "RockPaperScissors" */;
+			buildConfigurationList = 8516B264282E0584001A9565 /* Build configuration list for PBXNativeTarget "BetterRest" */;
 			buildPhases = (
-				8516B238282D5F99001A9565 /* Sources */,
-				8516B239282D5F99001A9565 /* Frameworks */,
-				8516B23A282D5F99001A9565 /* Resources */,
+				8516B252282E0581001A9565 /* Sources */,
+				8516B253282E0581001A9565 /* Frameworks */,
+				8516B254282E0581001A9565 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = RockPaperScissors;
-			productName = RockPaperScissors;
-			productReference = 8516B23C282D5F99001A9565 /* RockPaperScissors.app */;
+			name = BetterRest;
+			productName = BetterRest;
+			productReference = 8516B256282E0581001A9565 /* BetterRest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8516B234282D5F99001A9565 /* Project object */ = {
+		8516B24E282E0581001A9565 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
 				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					8516B23B282D5F99001A9565 = {
+					8516B255282E0581001A9565 = {
 						CreatedOnToolsVersion = 13.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 8516B237282D5F99001A9565 /* Build configuration list for PBXProject "RockPaperScissors" */;
+			buildConfigurationList = 8516B251282E0581001A9565 /* Build configuration list for PBXProject "BetterRest" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 8516B233282D5F99001A9565;
-			productRefGroup = 8516B23D282D5F99001A9565 /* Products */;
+			mainGroup = 8516B24D282E0581001A9565;
+			productRefGroup = 8516B257282E0581001A9565 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8516B23B282D5F99001A9565 /* RockPaperScissors */,
+				8516B255282E0581001A9565 /* BetterRest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8516B23A282D5F99001A9565 /* Resources */ = {
+		8516B254282E0581001A9565 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8516B247282D5F9D001A9565 /* Preview Assets.xcassets in Resources */,
-				8516B244282D5F9D001A9565 /* Assets.xcassets in Resources */,
+				8516B261282E0584001A9565 /* Preview Assets.xcassets in Resources */,
+				8516B25E282E0584001A9565 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8516B238282D5F99001A9565 /* Sources */ = {
+		8516B252282E0581001A9565 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8516B242282D5F99001A9565 /* ContentView.swift in Sources */,
-				8516B240282D5F99001A9565 /* RockPaperScissorsApp.swift in Sources */,
+				8516B25C282E0581001A9565 /* ContentView.swift in Sources */,
+				8516B25A282E0581001A9565 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8516B248282D5F9D001A9565 /* Debug */ = {
+		8516B262282E0584001A9565 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		8516B249282D5F9D001A9565 /* Release */ = {
+		8516B263282E0584001A9565 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,14 +259,14 @@
 			};
 			name = Release;
 		};
-		8516B24B282D5F9D001A9565 /* Debug */ = {
+		8516B265282E0584001A9565 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperScissors/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"BetterRest/Preview Content\"";
 				DEVELOPMENT_TEAM = SC325LS73S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -281,7 +281,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arvinshen.RockPaperScissors;
+				PRODUCT_BUNDLE_IDENTIFIER = arvinshen.BetterRest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -289,14 +289,14 @@
 			};
 			name = Debug;
 		};
-		8516B24C282D5F9D001A9565 /* Release */ = {
+		8516B266282E0584001A9565 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperScissors/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"BetterRest/Preview Content\"";
 				DEVELOPMENT_TEAM = SC325LS73S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -311,7 +311,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arvinshen.RockPaperScissors;
+				PRODUCT_BUNDLE_IDENTIFIER = arvinshen.BetterRest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8516B237282D5F99001A9565 /* Build configuration list for PBXProject "RockPaperScissors" */ = {
+		8516B251282E0581001A9565 /* Build configuration list for PBXProject "BetterRest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8516B248282D5F9D001A9565 /* Debug */,
-				8516B249282D5F9D001A9565 /* Release */,
+				8516B262282E0584001A9565 /* Debug */,
+				8516B263282E0584001A9565 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8516B24A282D5F9D001A9565 /* Build configuration list for PBXNativeTarget "RockPaperScissors" */ = {
+		8516B264282E0584001A9565 /* Build configuration list for PBXNativeTarget "BetterRest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8516B24B282D5F9D001A9565 /* Debug */,
-				8516B24C282D5F9D001A9565 /* Release */,
+				8516B265282E0584001A9565 /* Debug */,
+				8516B266282E0584001A9565 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8516B234282D5F99001A9565 /* Project object */;
+	rootObject = 8516B24E282E0581001A9565 /* Project object */;
 }
