@@ -39,7 +39,7 @@ In Progress
 ## Acknowledgements
 Hacking With Swift - [100 Days of SwiftUI] by Paul Hudson
 
-project_# - Word Scramble is coded in correspondence to the following days:
+Project 5 - Word Scramble is coded in correspondence to the following days:
 * [Day 29]
 * [Day 30]
 * [Day 31] - Challenge Day
