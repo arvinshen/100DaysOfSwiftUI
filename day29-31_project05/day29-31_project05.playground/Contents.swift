@@ -65,6 +65,7 @@ struct ContentView: View {
 }
 
 // Loading resources from your app bundle
+
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
@@ -81,6 +82,7 @@ struct ContentView: View {
 }
 
 // Working with strings
+
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
