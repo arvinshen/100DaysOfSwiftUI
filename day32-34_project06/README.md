@@ -14,6 +14,15 @@
 
 Animation is a technique project looking at a range of animations and transitions with SwiftUI.
 
+#### [Challenges](https://www.hackingwithswift.com/books/ios-swiftui/animation-wrap-up)
+>Go back to the Guess the Flag project and add some animation:
+>
+>1. When you tap a flag, make it spin around 360 degrees on the Y axis.
+>2. Make the other two buttons fade out to 25% opacity.
+>3. Add a third effect of your choosing to the two flags the user didn’t choose – maybe make them scale down? Or flip in a different direction? Experiment!
+>
+>These challenges aren’t easy. They take only a few lines of code, but you’ll need to think carefully about what modifiers you use to get the exact animations you want. Try adding an @State property to track which flag the user tapped on, then using that inside conditional modifiers for rotation, fading, and whatever you decide for the third challenge.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
