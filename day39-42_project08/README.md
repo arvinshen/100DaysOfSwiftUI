@@ -62,6 +62,8 @@ Project 8 - Moonshot is coded in correspondence to the following days:
 * [Day 41]
 * [Day 42] - Challenge Day
 
+All mission and astronaut descriptions are licensed under [CC-BY-SA] and credited to Wikipedia and their authors. 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -73,3 +75,4 @@ Project 8 - Moonshot is coded in correspondence to the following days:
 [Day 40]: https://www.hackingwithswift.com/100/swiftui/40
 [Day 41]: https://www.hackingwithswift.com/100/swiftui/41
 [Day 42]: https://www.hackingwithswift.com/100/swiftui/42
+[CC-BY-SA]: https://creativecommons.org/licenses/by-sa/3.0
